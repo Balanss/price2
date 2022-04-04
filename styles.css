@@ -1,0 +1,296 @@
+body {
+
+height: 100%;
+
+
+}
+
+
+#alltags{
+  display:none;
+  background-color: lightgrey;
+    width: 100%;
+    margin: auto;
+    position: absolute;
+    top: 56px;
+    height: 71%;
+    z-index: 1;
+    text-align: center;
+
+}
+#version{
+  position: relative;
+  right: 30px;
+}
+
+#here{
+  background-color: aliceblue;
+margin-top: 30px;
+display: block;
+border: #dfdfdf solid 1px;
+}
+
+}
+
+#total{
+  background-color: lightgrey;
+  text-align: center;
+  margin-top: 60px;
+}
+
+#test{
+      background-color: black;
+}
+
+#all{    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    background-color: aliceblue;
+  width: 90%;
+margin:auto;
+height: 82vh;}
+
+#close{
+  z-index: 2;
+}
+
+.new {
+  margin: 10px;
+  display: inline-block;
+  width: 180px;
+
+}
+
+.header{
+  text-align: center;
+}
+
+.center{
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.yourBill{
+  margin-top: 15px;
+}
+
+
+.allTags{
+  margin-top: 45px;
+}
+
+.foot{
+  position: absolute;
+bottom: 0;
+}
+
+.footer{
+  color: aliceblue;
+  background-color: red;
+
+}
+
+.footer-end {
+  width: 30%
+}
+
+.navbar-brand{
+  color: aliceblue;
+}
+
+.brand {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: aliceblue;
+  width: 90%;
+  margin:auto;
+}
+.brand2{
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.navbar {
+  background-color: red;
+}
+
+.logo {
+  width: 20%;
+}
+
+.Main{
+
+
+  display: flex;
+      flex-direction: column;
+      align-items: center;
+      background-color: aliceblue;
+      width: 90%;
+      margin:auto;
+      height: 85vh;
+}
+
+.Main2{
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aliceblue;
+    width: 90%;
+    margin: auto;
+    height: 50vh;
+}
+
+.Main3{
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aliceblue;
+    width: 90%;
+    margin: auto;
+    height: 47vh;
+}
+
+.gototags{
+  background-color: aliceblue;
+width: 90%;
+margin: auto;
+}
+
+
+
+.tag{
+
+  width: 50%;
+    color: red;
+    position: relative;
+  left: -10px;
+margin-top: 50px;
+
+}
+.tag1{
+  color: red;
+    position: relative;
+    left: -10px;
+    top: 32px;
+    color: red;
+    position: relative;
+  left: -10px;
+margin-top: 50px;
+}
+
+.tags{
+  width: 50%;
+    color: red;
+        margin-bottom: 20px;
+        position: relative;
+    right: 20px;
+
+}
+
+.tied{
+  display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-end;
+}
+
+.tag-noord{
+  color: red;
+  margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.tag-dorp{
+
+    color: red;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 70px;
+
+}
+
+.red{
+  width: 50%;
+
+}
+
+.redtags{
+  display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.redTagImg{
+
+    width: 80px;
+
+}
+
+.zuid-info{
+
+}
+
+.noord-info{
+  display: flex;
+align-items: center;
+flex-direction: column;
+}
+
+.dorp-info{
+  display: flex;
+align-items: center;
+flex-direction: column;
+}
+
+.nonsense{
+  width: 90%;
+    margin-top: 20px;
+}
+
+.zuid{
+  width: 90%;
+  border: black solid;
+  margin-top: 20px;
+
+}
+
+.carousel{
+  width: 90%;
+  border: black solid;
+  margin-top: 20px;
+  margin: auto;
+}
+
+
+
+
+.itemName{
+  color: black;
+font-weight: 700;
+margin-left: 25px ;
+}
+.iteminfo{
+  color: black;
+font-size: 18px;
+font-weight: 700;
+margin-left: 25px;
+}
+
+.pic1{
+  width: 30%;
+  float: right;
+}
+
+.pic2{
+  width: 80%;
+  float:right;
+}

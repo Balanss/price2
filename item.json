@@ -1,0 +1,31 @@
+{
+"name":"milk",
+"price": 40,
+"location": "cooling",
+"fact": "contains dairy"
+
+},
+{
+  "name":"yoghurt",
+  "price": 50,
+  "location": "cooling",
+  "fact": "contains dairy"
+},
+{
+  "name":"M&N",
+  "price": 55,
+  "location": "isle 6",
+  "fact": "gluten free"
+},
+{
+  "name":"hotdog",
+  "price": 100,
+  "location": "cooling",
+  "fact": "gluten free"
+},
+{
+  "name":"pita brood",
+  "price": 75.50,
+  "location": "cooling",
+  "fact": "not gluten free"
+}
