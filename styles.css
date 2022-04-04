@@ -27,6 +27,7 @@ height: 100%;
 margin-top: 30px;
 display: block;
 border: #dfdfdf solid 1px;
+margin-bottom: 20px;
 }
 
 }
@@ -34,7 +35,7 @@ border: #dfdfdf solid 1px;
 #total{
   background-color: lightgrey;
   text-align: center;
-  margin-top: 60px;
+  margin-top: 20px;
 }
 
 #test{
@@ -47,7 +48,7 @@ border: #dfdfdf solid 1px;
     background-color: aliceblue;
   width: 90%;
 margin:auto;
-height: 82vh;}
+height: 100vh;}
 
 #close{
   z-index: 2;
@@ -87,9 +88,6 @@ height: 82vh;}
 
 }
 
-.footer-end {
-  width: 30%
-}
 
 .navbar-brand{
   color: aliceblue;
@@ -149,7 +147,7 @@ height: 82vh;}
     background-color: aliceblue;
     width: 90%;
     margin: auto;
-  
+
 }
 
 .gototags{
@@ -223,6 +221,7 @@ margin-top: 50px;
     justify-content: space-around;
     margin-top: 20px;
     margin-left: 100px;
+    margin-bottom: 50px;
 }
 
 .redTagImg{
