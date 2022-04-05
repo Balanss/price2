@@ -30,12 +30,14 @@ border: #dfdfdf solid 1px;
 margin-bottom: 20px;
 }
 
-}
+
 
 #total{
   background-color: lightgrey;
   text-align: center;
+  margin: auto;
   margin-top: 20px;
+  width: 80%;
 }
 
 #test{
@@ -88,6 +90,11 @@ height: 100vh;}
 
 }
 
+.footer.end{
+  margin-top: 20px;
+margin-bottom: 20px;
+}
+
 
 .navbar-brand{
   color: aliceblue;
@@ -112,6 +119,11 @@ height: 100vh;}
 
 .navbar {
   background-color: red;
+
+}
+.fixed{
+  position: fixed;
+  width: 100%;
 }
 
 .logo {
